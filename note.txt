@@ -1,0 +1,3 @@
+creating power pellets 
+timer
+animation effects
